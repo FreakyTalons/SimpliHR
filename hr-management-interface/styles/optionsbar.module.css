@@ -1,0 +1,27 @@
+.icon {
+    color: #93959b;
+    height: 24px;
+    width: auto;
+}
+
+.sidebar_txt {
+    cursor: pointer;
+    color: #93959b;
+}
+
+.sidebar_stack {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1.125rem;
+    border: #087c59 2px solid;
+    border-radius: 4px;
+}
+
+.sidebar_txt:hover {
+    color: #087c59;
+}
+
+.sidebar_wrapper {
+    max-width: 60rem;
+    margin: 1rem auto;
+}

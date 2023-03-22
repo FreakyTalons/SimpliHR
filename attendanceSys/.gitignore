@@ -1,0 +1,11 @@
+#python virtual environment
+venv/
+
+#Firebase Credentials
+serviceAccountKey.json 
+
+#local images dataset 
+imgs/
+
+#local images encodings
+EncodeFile.p

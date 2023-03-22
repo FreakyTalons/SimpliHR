@@ -1,0 +1,92 @@
+.nav_styles {
+    width: 100vw;
+    border-bottom: 5px #087c59 solid;
+    color: #1e1e1e;
+    font-family: 'Poppins', sans-serif;
+    height: 80px;
+}
+
+.logo_styles {
+    width: auto;
+    height: 50px;
+    margin-left: 1.5rem;
+}
+
+.welcome_text {
+    margin-left: 1.5rem;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.cust_button1 {
+    padding: 8px 36px;
+    border: none;
+    background: #087c59;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1.25rem;
+    width: max-content;
+    border-radius: 8px;
+    margin: 1.5rem auto;
+}
+
+.cust_button {
+    padding: 8px 36px;
+    border: none;
+    background: #087c59;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1.25rem;
+    width: max-content;
+    border-radius: 8px;
+    margin: 0 1.5rem 0 auto;
+}
+
+.icon {
+    color: #93959b;
+    height: 32px;
+    width: auto;
+}
+
+.icon_gold {
+    color: #FFD700;
+    height: 32px;
+    width: auto;
+}
+
+.prop_val {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1.25rem;
+    color: #1e1e1e;
+}
+
+.wrapper {
+    max-width: 1280px;
+    width: 95%;
+    margin: 10vh auto;
+}
+
+.form_wrapper {
+    max-width: 540px;
+    width: 95%;
+    margin: 10vh auto;
+}
+
+.cust_input {
+    border: #087c59 2px solid;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1.125rem;
+    padding: 8px 14px;
+    border-radius: 8px;
+    margin: 0.75rem auto;
+    width: 100%;
+    display: inline;
+}
+
+.cust_input:focus {
+    outline: none;
+}
