@@ -39,7 +39,7 @@
  1. cd into `SimpliHR/hr-management-interface` and run `npm install` to install the dependencies.
  2. make `.env.local` file as given in the `.env.example` with your pertinent Firebase Credentials.
  3. run `npm run dev` to start the development server.
- 4. run `mpm run build` to create a build followed by `npm run start` to tun the build.
+ 4. run `mpm run build` to create a build followed by `npm run start` to run the build.
  5. the server can be accessed over http://127.0.0.1:3000/
  
  
