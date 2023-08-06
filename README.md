@@ -31,8 +31,8 @@
  3. create an `imgs` directory here, in which create a `train` sub-directory to store the training images.
  4. run `python3 encodeAlgo.py` in the `SimpliHR/AttendanceSys` directory to generate encodings.
  5. create a `serviceAccountKey.json` that contains all the Firebase Credentials including the URL one for Firebase Realtime Database.
- 6. edit the `data` and run `python3 addData.py` in the `SimpliHR/AttendanceSys` directory to add data to Firebase Realtime Database.
- 7. run `python3 encodeAlgo.py` in the `SimpliHR/AttendanceSys` directory to run the main face recognition app.
+ 6. edit the `data` object in `addData.py` and run `python3 addData.py` in the `SimpliHR/AttendanceSys` directory to add data to Firebase Realtime Database.
+ 7. run `python3 main.py` in the `SimpliHR/AttendanceSys` directory to run the main face recognition app.
  
  ### 💻hr-management-interface
  
